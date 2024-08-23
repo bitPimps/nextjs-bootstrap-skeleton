@@ -1,0 +1,8 @@
+{
+    "css.validate": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "liveSassCompile.settings.watchOnLaunch": false,
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+}
