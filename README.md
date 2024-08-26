@@ -8,13 +8,15 @@ Enjoy!
 
 ## Getting Started
 
-First, install the packages:
+Step 1: Clone the repo
+
+Step 2: Install the packages:
 
 ```bash
 npm install
 ```
 
-Then, run the development server:
+Step 3: Run the development server:
 
 ```bash
 npm run dev
